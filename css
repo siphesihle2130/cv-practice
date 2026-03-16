@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #ffffff;
+  color: #333;
+  margin: 40px;
+}
+
+h1 {
+  color: #004080; /* deep blue */
+  border-bottom: 3px solid #FFD700; /* gold underline */
+  padding-bottom: 5px;
+}
+
+h2 {
+  color: #004080;
+  margin-top: 30px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+a {
+  color: #004080;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  border: 1px solid #FFD700;
+}
