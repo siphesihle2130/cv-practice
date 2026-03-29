@@ -44,8 +44,8 @@ contributing to real world software development projects.
 - 064 848 2130
 - 230926177@mycput.ac.za
 - Belhar 23, cape town, SA
-- <http://www.linkedin.com/in/siphesihlekhinase-25861226>
-- https://siphesihle2130.github.io/siphesihle-s-Portfilio-web
+- <https://www.linkedin.com/in/siphesihle-khinase-25861226b/>
+- <https://siphesihle2130.github.io/siphesihle-s-Portfilio-web>
 
 ### **REFERENCES**
 **Susan Hendrics**
