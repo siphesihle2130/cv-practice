@@ -40,8 +40,7 @@ contributing to real world software development projects.
     other teammates into one app and connect it to the database.
 
 ### **CONTACT**
-
-- 📞 064 848 2130 <br>
+📞 064 848 2130 <br>
 📩 <230926177@mycput.ac.za> <br>
 🏠 Belhar 23, Cape Town, SA <br>
 👤 <https://www.linkedin.com/in/siphesihle-khinase-25861226b/> <br>
