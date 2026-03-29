@@ -44,19 +44,19 @@ contributing to real world software development projects.
 - 064 848 2130
 - 230926177@mycput.ac.za
 - Belhar 23, cape town, SA
-- http://www.linkedin.com/in/siphesihlekhinase- 25861226
+- http://www.linkedin.com/in/siphesihlekhinase- 25861226 - automatic!
 - https://siphesihle2130.github.io/siphesihle-s-Portfilio-web
 
 ### **REFERENCES**
 **Susan Hendrics**
-Self Employed
-Honeysuzan29@gmail.com
-084 577 7432
+- Self Employed
+- Honeysuzan29@gmail.com
+- 084 577 7432
 
 **Aphiwe Tambo**
-True Guard
-aphiwetambo@gmail.com
-076 867 5632
+- True Guard
+- aphiwetambo@gmail.com
+- 076 867 5632
 
 ## **TECHNICAL SKILLS**
 - HTML
