@@ -1,13 +1,14 @@
 # **SIPHESIHLE KHINASE**
 
 #### **ICT STUDENT**
+### **OBJECTIVE**
 
 I am an ICT application development student seeking for a Work Integrated
 Learning (WIL) placement. My primary objective is to apply my knowledge of
 Java and web technologies while gaining an industrial experience and
 contributing to real world software development projects.
 
-### **PROFILE**
+### **EDUCATION**
 **Dangwana S.S.S**
 - National Senior Certificate
 - Jan 2022
@@ -21,7 +22,7 @@ contributing to real world software development projects.
 - Jan 2024 - Present
 
 ### **EXPERIENCE**
-## **V O L U N T EER  E X P E R I E N C E**
+## **V O L U N T E E R  E X P E R I E N C E**
 
 **Montelo Solar | Jun 2025 – Nov 2025 | Front End Student Developer**
 - Montelo is an upcoming e-commerce business that bridges the
